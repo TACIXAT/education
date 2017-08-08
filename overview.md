@@ -148,6 +148,31 @@
 
 * Joins
 
+## Computer Organization
+
+* CPU
+
+* Memory
+
+* 2s compliment
+
+* Circuit logic
+
+
+## Operating Systems
+
+* Boot process
+
+* Kernel
+
+* Memory
+
+* Threads
+
+* File systems
+
+* Sockets
+
 ## C
 
 * Variables (types)
@@ -155,6 +180,12 @@
 * Loops
 
 * Printing
+
+* Compiling
+
+* Linking
+
+* Loading
 
 * Pointers
 
@@ -277,6 +308,26 @@
 * Packers
 
 * Droppers
+
+## Discrete Math
+
+* Probability 
+
+* Combinatorics
+
+## Data Structures & Algorithms
+
+* Big O
+
+* Arrays
+
+* Linked lists
+
+* Trees
+
+* Sets
+
+* Maps
 
 ## Business
 
