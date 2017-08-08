@@ -1,3 +1,13 @@
+# Challenges
+
+* Screen recording
+
+* Voice recording
+
+* Editing
+
+* Content
+
 # Security Education
 
 ## Requirements
@@ -13,6 +23,14 @@
 * Downloading Ubuntu
 
 * Installing the OS
+
+## Getting Help
+
+* Stackoverflow
+
+* Reddit
+
+* When you can't find an answer, make one
 
 ## Linux Command Line
 
@@ -33,6 +51,18 @@
 * Purpose
 
 * Git
+
+* Commit
+
+* Push
+
+* Branches
+
+* Forks
+
+* Pull requests
+
+* Merging changes
 
 ## Bits and Bytes
 
@@ -323,11 +353,39 @@
 
 * Linked lists
 
+* Queues, stacks, fifo, lifo
+
 * Trees
 
 * Sets
 
 * Maps
+
+## Threat Modeling
+
+* TODO: Learn threat modeling
+
+## Automation
+
+* Don't do boring stuff
+
+* Web scraping
+
+* Mouse and keyboad
+
+## Writing
+
+* Spelling, grammar
+
+* Write, read, edit, read, third party read, edit, read
+
+* Opinions
+
+* Hemmingway app
+
+* Technical writing
+
+* Marketing
 
 ## Business
 
@@ -338,3 +396,20 @@
 * How you make your company money
 
 * Ethics
+
+## Career
+
+* Don't be an asshole
+
+* Don't burn bridges
+
+* Promote yourself
+
+* How do you add value
+
+* What skills do you have
+
+* Linkedin
+
+* Github
+
