@@ -18,9 +18,11 @@
 
 * RAM (2 GB)
 
-## Virtual Machines
+## Setup
 
 * Downloading Ubuntu
+
+* Downloading Virtualbox
 
 * Installing the OS
 
@@ -139,6 +141,8 @@
 * IP addresses
 
 * OSI model
+
+* Packets
 
 * Ports
 
