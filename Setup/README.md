@@ -12,15 +12,11 @@ Ubuntu makes two major releases each year. One in April (04) and one in October 
 
 The most recent LTS release is 16.04, which is what we will be using for this course. If you are watching this and 18.04 has been released, you can use that but you might run into some minor differences. As long as you are confident that you can work through those, you can go ahead and grab 18.04 instead. If all of this is very new, 16.04 is a safer choice. 
 
-----
-
 ## Downloads
 
 To download XUbuntu we can open up our favorite web browser and navigate to https://xubuntu.org/getxubuntu. If you are on a 64 bit system, download the 64 bit version, if you are 32 bit, grab the 32 bit one. If you have bittorrent software installed you can grab the torrent download. These are generally way faster. If not, you can go get a mirror download. This is a large file, so it will take a few minutes to download on a fast connection, and much longer on a slow one, so we will leave it running in the background and grab VirtualBox. 
 
 In order to download Virtualbox we'll go to https://www.virtualbox.org/wiki/Downloads. Alternatively, you can search for VirtualBox in your favorite search engine and click through to their site. You will want to get the download corresponding to your host operating system, that is, the operating system you're currently using. I'm on Windows so I will grab that one. I'm going to cut here and come back when both these downloads are complete.
-
-----
 
 ## Installation
 
@@ -30,4 +26,12 @@ In VirtualBox we can click the blue New button in the upper left hand corner. Ty
 
 The first time you launch the VM VirtualBox should prompt you to locate the install media. We can go and navigate to our XUbuntu ISO and select that. If you ever mess this up, which I am known to do, you won't get the prompt and instead see a message `FATAL: No bootable medium found! System halted.`. Don't panic. Just power off the VM. Right click and go into Settings. Select the Storage tab. Under `Controller: IDE` click the CD icon that says Empty. Then click the CD icon with an arrow on the far right. Select `Choose Optical Virtual Disk File` and navigate to the XUbuntu ISO.
 
-Now when we boot our system it will boot to the XUbuntu CD. VirtualBox will display some informational messages about capturing your mouse and keyboard, and how to release them, you should read those. Once the disk is booted we can click Install Xubuntu. We'll check download updates while installing and install 3rd party software then clikc Continue. We will "erase" our virtual disk, since it is empty, and install Xubuntu and click Install Now. Click Continue. On this screen select your timezone and click Continue. Then select your language and click Continue. Enter a Name, I will use a short one for both my name and username so it is easy to login. The computer can be named xubuntu-vm. Then choose a password. Mine will be weak and nothing used elsewhere so if I accidentally type it on screen it won't compromise any of my accounts. I am going to select Log in automatically, which is not an option you would want on a normal computer, but this is an educational VM so it is OK. Clicking Continue will begin the install. I will cut here and come back when the system is ready. 
+Now when we boot our system it will boot to the XUbuntu CD. VirtualBox will display some informational messages about capturing your mouse and keyboard, and how to release them, you should read those. Once the disk is booted we can click Install Xubuntu. We'll check download updates while installing and install 3rd party software then clikc Continue. We will "erase" our virtual disk, since it is empty, and install Xubuntu and click Install Now. Click Continue. On this screen select your timezone and click Continue. Then select your language and click Continue. Enter a Name, I will use a short one for both my name and username so it is easy to login. The computer can be named xubuntu-vm. Then choose a password. Mine will be weak and nothing used elsewhere so if I accidentally type it on screen it won't compromise any of my accounts. I am going to select Log in automatically, which is not an option you would want on a normal computer, but this is an educational VM so it is OK. Clicking Continue will begin the install. I will cut here and come back when the install is complete.
+
+Now that he install is finished we can clikc Restart Now. It will give us the opportunity to remove the install disk, since XUbuntu has already done that for us, we can just hit enter to launch the system.
+
+## Booting
+
+GRUB menu. Older kernels. Recovery mode. 
+
+Installing guest additions. 
