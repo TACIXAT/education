@@ -6,7 +6,7 @@
 * Downloading Virtualbox
 * Installing the OS
 
-## [Getting Help](/Getting Help)
+## [Getting Help](/Getting\ Help)
 
 * Stackoverflow
 * Reddit
