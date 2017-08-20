@@ -1,37 +1,15 @@
-# Challenges
-
-* Screen recording
-
-* Voice recording
-
-* Editing
-
-* Content
-
 # Security Education
-
-## Requirements
-
-* Computer
-
-* Disk space (20 GB)
-
-* RAM (2 GB)
 
 ## [Setup](/Setup/)
 
 * Downloading Ubuntu
-
 * Downloading Virtualbox
-
 * Installing the OS
 
-## Getting Help
+## [Getting Help](/Getting Help)
 
 * Stackoverflow
-
 * Reddit
-
 * When you can't find an answer, make one
 
 ## Linux Command Line
