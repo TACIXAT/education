@@ -48,24 +48,6 @@
 
 * SSH
 
-## Version Control
-
-* Purpose
-
-* Git
-
-* Commit
-
-* Push
-
-* Branches
-
-* Forks
-
-* Pull requests
-
-* Merging changes
-
 ## Bits and Bytes
 
 * Binary
@@ -119,6 +101,24 @@
 * Look aheads / behinds
 
 * Practical substitutions (Sublime, Vim, Sed)
+
+## Version Control
+
+* Purpose
+
+* Git
+
+* Commit
+
+* Push
+
+* Branches
+
+* Forks
+
+* Pull requests
+
+* Merging changes
 
 ## Programming
 
