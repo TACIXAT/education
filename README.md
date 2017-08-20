@@ -18,7 +18,7 @@
 
 * RAM (2 GB)
 
-## Setup
+## [Setup](/Setup/)
 
 * Downloading Ubuntu
 
