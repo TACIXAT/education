@@ -10,6 +10,6 @@
   * /r/netsec
   * /r/malware
 * When you can't find an answer, make one
- * Changing the phone number in the Android Emulator
- * Programmatic simplification of boolean expressions
- * Hacking the Javascript Lottery
+  * Changing the phone number in the Android Emulator
+  * Programmatic simplification of boolean expressions
+  * Hacking the Javascript Lottery
