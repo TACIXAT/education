@@ -12,18 +12,13 @@
 * Reddit
 * When you can't find an answer, make one
 
-## Linux Command Line
+## [Linux Command Line](/Linux%20Command%20Line/)
 
 * Navigation
-
 * Unix directory structure
-
 * Basic vim 
-
 * Copy, move, delete files
-
 * Installing programs (apt-get)
-
 * SSH
 
 ## Bits and Bytes
