@@ -23,21 +23,26 @@
 
 ## Bits and Bytes
 
-* Binary
-
 * Decimal 
+* Binary Counting, Conversions
+* Hexadecimal Counting, Conversions
+* Octal Recoginzing
 
-* Hexadecimal 
-
-* Octal
-
+* Nibbles
 * Bytes
+* Words
+* Double Words
+* Quad Words
 
 * Short 
-
 * Integers
-
 * Longs
+
+* Signed / Unsigned
+* 2s Complement
+
+* Python
+* Real World Examples
 
 ## Bitwise Operations
 
