@@ -38,11 +38,15 @@
 # Floating Point
 * Exponent and mantissa
 
-# Python
+# Python Numbers
 * ord()
 * chr()
 * hex()
 * numpy int32
 * struct
+
+# Python Common Encodings
 * strings and hex
 * strings and base64
+
+
