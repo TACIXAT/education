@@ -21,28 +21,15 @@
 * Installing programs (apt-get)
 * SSH
 
-## Bits and Bytes
+## [Bits and Bytes](/Bits%20and%20Bytes)
 
-* Decimal 
-* Binary Counting, Conversions
-* Hexadecimal Counting, Conversions
-* Octal Recoginzing
-
-* Nibbles
-* Bytes
-* Words
-* Double Words
-* Quad Words
-
-* Short 
+* Counting
+* Conversions
+* Data types
 * Integers
-* Longs
-
-* Signed / Unsigned
-* 2s Complement
-
-* Python
-* Real World Examples
+* Floats
+* Python Numbers
+* Python Common Encodings
 
 ## Bitwise Operations
 
