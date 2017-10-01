@@ -34,19 +34,16 @@
 * Signed integers
 * 2's complement
 * Overflows and underflows
+* Endianness
 
 # Floating Point
 * Exponent and mantissa
 
-# Python Numbers
+# Python
+* bin()
 * ord()
 * chr()
 * hex()
+* int()
 * numpy int32
-* struct
-
-# Python Common Encodings
-* strings and hex
-* strings and base64
-
-
+* struct pack / unpack
