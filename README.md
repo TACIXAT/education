@@ -29,7 +29,6 @@
 * Integers
 * Floats
 * Python Numbers
-* Python Common Encodings
 
 ## Bitwise Operations
 
@@ -50,6 +49,8 @@
 * Example file formats
 
 * Hex editors
+
+* Python Common Encodings
 
 ## Regex
 
