@@ -30,18 +30,6 @@
 * Floats
 * Python Numbers
 
-## Bitwise Operations
-
-* Not
-
-* And
-
-* Or
-
-* Xor
-
-* Shift
-
 ## Files and Formats
 
 * What is a file
