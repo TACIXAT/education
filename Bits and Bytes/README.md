@@ -11,7 +11,7 @@
 * Binary to decimal - sum pow 2
 
 # Converting Between Hexadecimal and Decimal
-* Mnetion decimal to hex - div 16
+* Mention decimal to hex - div 16
 * Decimal to hex - sub pow 16
 * Hex to decimal - sum pow 16
 
@@ -38,6 +38,13 @@
 
 # Floating Point
 * Exponent and mantissa
+
+# Bitwise Operations
+* Not
+* And
+* Or
+* Xor
+* Shift
 
 # Python
 * bin()
