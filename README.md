@@ -33,28 +33,15 @@
 ## Files and Formats
 
 * What is a file
-
-* Example file formats
-
-* Hex editors
-
-* Python Common Encodings
+* File Magic
+* Zip File Format
+* 010 Editor
 
 ## Regex
 
-* Character matching (any, escapes)
-
-* Character classes
-
-* Count (*, +, {N,M})
-
-* Capture groups
-
-* Non-capturing groups
-
-* Look aheads / behinds
-
-* Practical substitutions (Sublime, Vim, Sed)
+* Regex Basics
+* Anchors and Character Classes
+* Capture Groups and Lookarounds
 
 ## Version Control
 
@@ -77,18 +64,15 @@
 ## Programming
 
 * Variables
-
-* Data types
-
-* If statements
-
-* Loops
-
-* Functions
-
+* Bools
+* strings and Printing
 * Imports
-
-* Encoding / decoding data
+* If, elif, else
+* For and While
+* Files
+* Functions
+* Classes
+* Password Manager
 
 ## Networking
 
