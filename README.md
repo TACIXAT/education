@@ -43,24 +43,6 @@
 * Anchors and Character Classes
 * Capture Groups and Lookarounds
 
-## Version Control
-
-* Purpose
-
-* Git
-
-* Commit
-
-* Push
-
-* Branches
-
-* Forks
-
-* Pull requests
-
-* Merging changes
-
 ## Programming
 
 * Variables
@@ -118,31 +100,6 @@
 * Drop
 
 * Joins
-
-## ~Computer Organization~
-
-* CPU
-
-* Memory
-
-* 2s compliment
-
-* Circuit logic
-
-
-## ~Operating Systems~
-
-* Boot process
-
-* Kernel
-
-* Memory
-
-* Threads
-
-* File systems
-
-* Sockets
 
 ## C
 
@@ -290,28 +247,6 @@
 
 * Droppers
 
-## ~Discrete Math~
-
-* Probability 
-
-* Combinatorics
-
-## ~Data Structures & Algorithms~
-
-* Big O
-
-* Arrays
-
-* Linked lists
-
-* Queues, stacks, fifo, lifo
-
-* Trees
-
-* Sets
-
-* Maps
-
 ## Threat Modeling
 
 * TODO: Learn threat modeling
@@ -363,4 +298,70 @@
 * Linkedin
 
 * Github
+
+# Graveyard
+
+## ~Version Control~
+
+* Purpose
+
+* Git
+
+* Commit
+
+* Push
+
+* Branches
+
+* Forks
+
+* Pull requests
+
+* Merging changes
+
+## ~Computer Organization~
+
+* CPU
+
+* Memory
+
+* 2s compliment
+
+* Circuit logic
+
+## ~Operating Systems~
+
+* Boot process
+
+* Kernel
+
+* Memory
+
+* Threads
+
+* File systems
+
+* Sockets
+
+## ~Discrete Math~
+
+* Probability 
+
+* Combinatorics
+
+## ~Data Structures & Algorithms~
+
+* Big O
+
+* Arrays
+
+* Linked lists
+
+* Queues, stacks, fifo, lifo
+
+* Trees
+
+* Sets
+
+* Maps
 
