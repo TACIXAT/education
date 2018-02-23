@@ -1,5 +1,9 @@
 # Security Education
 
+The best damn security course.
+
+# Complete
+
 ## [Setup](/Setup/)
 
 * Downloading Ubuntu
@@ -68,6 +72,8 @@
 * Wireshark / tcpdump
 
 * Packet crafting
+
+# TODO
 
 ## Web programming
 
