@@ -70,8 +70,7 @@ The best damn security course.
 * Netcat
 * RFC
 * Wireshark / tcpdump
-
-* Packet crafting
+* ~Packet crafting~
 
 # TODO
 
