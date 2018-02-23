@@ -77,28 +77,27 @@
 ## Networking
 
 * IP addresses
-
 * OSI model
-
 * Packets
-
 * Ports
-
 * Protocols
-
 * Netcat
-
 * RFC
-
 * Wireshark / tcpdump
 
 * Packet crafting
 
 ## Web programming
 
-* Flask
+* HTML, CSS, JS
+
+* Apache
 
 * PHP
+
+* Flask
+
+* Django
 
 * Requests
 
@@ -120,7 +119,7 @@
 
 * Joins
 
-## Computer Organization
+## ~Computer Organization~
 
 * CPU
 
@@ -131,7 +130,7 @@
 * Circuit logic
 
 
-## Operating Systems
+## ~Operating Systems~
 
 * Boot process
 
@@ -205,6 +204,10 @@
 
 * Static analysis
 
+* Return to libc
+
+* ROP
+
 ## Web Vulns
 
 * Burpsuite
@@ -255,7 +258,13 @@
 
 ## ARM
 
-* TODO: Learn ARM
+* Registers
+
+* Memory
+
+* Calling convention
+
+* Stack frames?
 
 ## Metasploit
 
@@ -281,13 +290,13 @@
 
 * Droppers
 
-## Discrete Math
+## ~Discrete Math~
 
 * Probability 
 
 * Combinatorics
 
-## Data Structures & Algorithms
+## ~Data Structures & Algorithms~
 
 * Big O
 
