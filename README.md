@@ -72,21 +72,25 @@ The best damn security course.
 * Wireshark / tcpdump
 * ~Packet crafting~
 
-# TODO
+# Doing
 
 ## Web programming
 
-* HTML, CSS, JS
+* Apache Install
+* Burpsuite Install
+* Anatomy of a web request
+* Frontend - HTML, CSS, JS
+* Deploying to Apache
+* Installing PHP
+* Backend PHP
 
-* Apache
+* Full Stack - Forms
 
-* PHP
+* Full Stack - AJAX
 
-* Flask
+* Python Requests
 
-* Django
-
-* Requests
+# TODO
 
 ## Databases
 
